@@ -9,23 +9,6 @@
 
 ---
 
-## 📸 Project Showcase
-
-<div align="center">
-  <img src="FULL%20PROJECT.jpeg" alt="Full Project Hardware" width="700"/>
-  <p><i>The complete hardware setup featuring the ESP32, OLED Display, Relays, and Environmental Sensors working in unison.</i></p>
-</div>
-
-<div align="center">
-  <img src="WEB%20DASHBOARD.jpeg" alt="Web Dashboard Interface" width="700"/>
-  <p><i>The real-time live web dashboard allowing users to monitor Temperature, Humidity, Light Intensity, VPD, and Soil Moisture, alongside manual motor controls.</i></p>
-</div>
-
-<div align="center">
-  <img src="Circuit%20Diagram.png" alt="Circuit Diagram" width="700"/>
-  <p><i>The complete electrical schematic and wiring diagram showing the connections between the microcontroller and the sensors.</i></p>
-</div>
-
 ## 📖 About the Project
 
 This project aims to bridge the gap between agriculture and technology by utilizing advanced predictive algorithms. Instead of relying solely on simple timers or basic soil moisture sensors, this system calculates the **Vapor Pressure Deficit (VPD)** and fuses it with **Solar Flux (Light Intensity)** data to make intelligent decisions about when and how much to irrigate crops.
@@ -60,3 +43,26 @@ This project aims to bridge the gap between agriculture and technology by utiliz
 3. Upload the code to your ESP32 board.
 4. Connect your phone or PC to the Wi-Fi network `VPD_Irrigation` (Password: `12345678`).
 5. Open your web browser and navigate to `http://192.168.4.1` to view the dashboard.
+
+---
+
+## 📸 Project Showcase
+
+<div align="center">
+  <img src="FULL%20PROJECT.jpeg" alt="Full Project Hardware" width="450"/>
+  <p><i>The complete hardware setup featuring the ESP32, OLED Display, Relays, and Environmental Sensors working in unison.</i></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="WEB%20DASHBOARD.jpeg" alt="Web Dashboard Interface" width="450"/>
+  <p><i>The real-time live web dashboard allowing users to monitor Temperature, Humidity, Light Intensity, VPD, and Soil Moisture, alongside manual motor controls.</i></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="Circuit%20Diagram.png" alt="Circuit Diagram" width="450"/>
+  <p><i>The complete electrical schematic and wiring diagram showing the connections between the microcontroller and the sensors.</i></p>
+</div>
