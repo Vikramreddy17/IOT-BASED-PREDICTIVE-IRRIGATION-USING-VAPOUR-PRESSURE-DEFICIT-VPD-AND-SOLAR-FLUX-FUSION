@@ -49,6 +49,13 @@ This project aims to bridge the gap between agriculture and technology by utiliz
 ## 📸 Project Showcase
 
 <div align="center">
+  <img src="Flowchart.png" alt="System Flowchart" width="450"/>
+  <p><i>The smart irrigation system data flow: sensing, storing, processing, and repeating the cycle.</i></p>
+</div>
+
+<br>
+
+<div align="center">
   <img src="FULL%20PROJECT.jpeg" alt="Full Project Hardware" width="450"/>
   <p><i>The complete hardware setup featuring the ESP32, OLED Display, Relays, and Environmental Sensors working in unison.</i></p>
 </div>
